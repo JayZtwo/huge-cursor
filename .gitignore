@@ -1,0 +1,26 @@
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+*.xcscmblueprint
+xcuserdata/
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# macOS
+.DS_Store
+
+# Archives and symbols
+*.xcarchive
+*.dSYM
+
+# Release artifacts
+dist/
+Huge cursor/dist/
+*.log
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
