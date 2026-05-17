@@ -2,11 +2,13 @@
 
 # Shake Cursor
 
-> Shake your mouse to summon a local Codex life assistant on macOS.
+> Install it, hide it in the background, then shake your mouse to summon a local Codex life assistant.
 >
-> 摇一摇鼠标，唤起一个本地 Codex 生活助手。
+> 安装后即可使用。摇一摇鼠标，唤起一个本地 Codex 生活助手。
 
-Shake Cursor 是一个 macOS 桌面入口实验：快速晃动鼠标，在当前位置唤起一个轻量浮层，用 Codex 生成签文、回答日常问题，并在识别到明确时间时写入本机日历。
+Shake Cursor 是一个 macOS 桌面入口实验：快速晃动鼠标，在当前位置唤起一个轻量浮层，用本机 Codex 生成签文、回答日常问题，并在识别到明确时间时写入本机日历。
+
+每一支签都不是本地预设文案。Shake Cursor 会把当前时间、触发位置、最近对话、历史签文等可用上下文交给 Codex，由 Codex 实时生成只属于当下的签文，因此不会机械重复。
 
 它最初来自 Huge Cursor 的交互探索：第三方 App 无法直接读取 macOS “晃动鼠标指针以定位”产生的系统放大状态，所以项目选择直接监听鼠标轨迹，识别全方向快速晃动，并把这个动作变成一个可复用入口。
 
@@ -21,7 +23,8 @@ Shake Cursor 是一个 macOS 桌面入口实验：快速晃动鼠标，在当前
 - 支持全方向快速晃动识别：左右、上下、斜向都可以触发。
 - 在晃动位置附近唤起浮层输入框。
 - 展示科技签筒和签文结果。
-- 连接本机 Codex，生成中文签文和日常助手回复。
+- 连接本机 Codex，实时生成中文签文和日常助手回复。
+- 签文不走本地预设库，会结合当前时间、触发位置、最近对话和历史签文等上下文生成。
 - 识别明确时间的日程请求，并写入 macOS 日历。
 - 主窗口隐藏到后台后继续监听。
 
@@ -30,6 +33,7 @@ Shake Cursor 是一个 macOS 桌面入口实验：快速晃动鼠标，在当前
 1. 安装并登录 Codex Desktop。
 2. 打开 Shake Cursor，按启动检查页完成权限确认。
 3. 点击「隐藏到后台」。后台运行时，摇动鼠标才能稳定唤起浮层。
+4. 之后在任意位置摇一摇鼠标即可使用。
 
 需要的系统权限：
 
