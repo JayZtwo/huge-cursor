@@ -1,4 +1,6 @@
 platform,priority,url,status,notes
+GitHub repository,P0,https://github.com/JayZtwo/huge-cursor,done,"Description, homepage, topics, README download entry, release asset."
+GitHub Pages landing page,P0,https://jayztwo.github.io/huge-cursor/,done,"Public launch page served from docs/."
 Product Hunt,P0,https://www.producthunt.com/launch,needs account,"Use Product Hunt copy. Prepare icon, website, GitHub, DMG, demo video."
 Hacker News Show HN,P0,https://news.ycombinator.com/submit,needs account,"Submit URL or text post. Use Show HN title."
 Reddit r/macapps,P0,https://www.reddit.com/r/macapps/submit,needs account,"Read subreddit rules, disclose maker."
