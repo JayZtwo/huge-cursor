@@ -8,6 +8,20 @@
 - Release: https://github.com/JayZtwo/huge-cursor/releases/tag/v1.0.1
 - Demo video: https://github.com/JayZtwo/huge-cursor/blob/main/media/demo.mp4
 
+## Promo Video Assets
+
+Generated locally from existing app assets and demo footage:
+
+- Vertical social video: `marketing/videos/shake-cursor-social-vertical.mp4`
+- Vertical cover: `marketing/videos/shake-cursor-social-cover.png`
+- Landscape launch video: `marketing/videos/shake-cursor-launch-landscape.mp4`
+- Landscape cover: `marketing/videos/shake-cursor-launch-cover.png`
+- Regeneration script: `marketing/make_promo_videos.py`
+
+Recommended caption:
+
+> 装上即可用。摇一摇鼠标，唤起本地 Codex 生活助手。每一支签都由 Codex 结合当前时间、触发位置、最近对话和历史签文实时生成，不是预设库，所以不会机械重复。
+
 ## Positioning
 
 One-line:
