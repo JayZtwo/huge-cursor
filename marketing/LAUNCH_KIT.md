@@ -18,6 +18,13 @@ Generated locally from existing app assets and demo footage:
 - Landscape cover: `marketing/videos/shake-cursor-launch-cover.png`
 - Regeneration script: `marketing/make_promo_videos.py`
 
+Public release asset URLs:
+
+- Vertical social video: https://github.com/JayZtwo/huge-cursor/releases/download/v1.0.1/shake-cursor-social-vertical.mp4
+- Vertical cover: https://github.com/JayZtwo/huge-cursor/releases/download/v1.0.1/shake-cursor-social-cover.png
+- Landscape launch video: https://github.com/JayZtwo/huge-cursor/releases/download/v1.0.1/shake-cursor-launch-landscape.mp4
+- Landscape cover: https://github.com/JayZtwo/huge-cursor/releases/download/v1.0.1/shake-cursor-launch-cover.png
+
 Recommended caption:
 
 > 装上即可用。摇一摇鼠标，唤起本地 Codex 生活助手。每一支签都由 Codex 结合当前时间、触发位置、最近对话和历史签文实时生成，不是预设库，所以不会机械重复。

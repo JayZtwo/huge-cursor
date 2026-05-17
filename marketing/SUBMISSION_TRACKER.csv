@@ -1,7 +1,7 @@
 platform,priority,url,status,notes
 GitHub repository,P0,https://github.com/JayZtwo/huge-cursor,done,"Description, homepage, topics, README download entry, release asset."
 GitHub Pages landing page,P0,https://jayztwo.github.io/huge-cursor/,done,"Public launch page served from docs/."
-Promo video kit,P0,marketing/videos,done,"Generated vertical and landscape promo videos plus covers from app assets and demo footage."
+Promo video kit,P0,https://github.com/JayZtwo/huge-cursor/releases/tag/v1.0.1,done,"Generated vertical and landscape promo videos plus covers from app assets and demo footage; uploaded to release assets."
 Product Hunt,P0,https://www.producthunt.com/launch,scheduled,"Scheduled for 2026-05-18 00:01 PT / 2026-05-18 15:01 GMT+8."
 Hacker News Show HN,P0,https://news.ycombinator.com/submit,blocked,"HN requires username/password login; no Google login. Needs user account choice."
 Reddit r/macapps,P0,https://www.reddit.com/r/macapps/submit,blocked,"Google sign-in widget visible but did not respond to keyboard/click automation; needs manual login or username/password."
