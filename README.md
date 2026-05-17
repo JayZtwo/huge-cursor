@@ -2,9 +2,15 @@
 
 # Shake Cursor
 
+> Shake your mouse to summon a local Codex life assistant on macOS.
+>
+> 摇一摇鼠标，唤起一个本地 Codex 生活助手。
+
 Shake Cursor 是一个 macOS 桌面入口实验：快速晃动鼠标，在当前位置唤起一个轻量浮层，用 Codex 生成签文、回答日常问题，并在识别到明确时间时写入本机日历。
 
 它最初来自 Huge Cursor 的交互探索：第三方 App 无法直接读取 macOS “晃动鼠标指针以定位”产生的系统放大状态，所以项目选择直接监听鼠标轨迹，识别全方向快速晃动，并把这个动作变成一个可复用入口。
+
+官网与发布页：[shake cursor landing page](https://jayztwo.github.io/huge-cursor/)
 
 ## 演示
 
